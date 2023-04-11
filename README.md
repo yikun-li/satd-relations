@@ -36,7 +36,7 @@ The replication package includes both the dataset and the trained SATD relation 
 - transformers
 
 
-### Identifying SATD
+### Identifying Relation Between SATD Items
 
 1. Download model weight at [LINK](https://zenodo.org/record/7819763)
 2. Replace the file path with the real path and run the following command:
